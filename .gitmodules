@@ -1,3 +1,4 @@
 [submodule "libPng"]
 	path = libPng
 	url = https://github.com/BingKeh/libPng.git
+	branch = main
